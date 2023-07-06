@@ -1,1 +1,2 @@
-# 2048-game
+# 2048-Game
+Build using HTML, CSS & JavaScript
